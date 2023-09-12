@@ -1,2 +1,2 @@
 # Jakup_Piskorowski_Informatyka
-Na lekcje infy lmao lmao
+Nauka o repozytoriach, C++ i innych rzeczach z natury informatycznej
